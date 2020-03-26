@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EngineTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-03-26T11:55:46" hostname="LAPTOP-UDFA407U" time="0.035">
+  <properties/>
+  <testcase name="indexDocumentTest()" classname="EngineTest" time="0.03"/>
+  <testcase name="searchTest()" classname="EngineTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
